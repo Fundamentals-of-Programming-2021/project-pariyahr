@@ -1,0 +1,3 @@
+/home/paria/Desktop/state.io/build/CMakeFiles/rebuild_cache.dir
+/home/paria/Desktop/state.io/build/CMakeFiles/edit_cache.dir
+/home/paria/Desktop/state.io/build/CMakeFiles/main.dir
